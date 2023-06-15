@@ -1,0 +1,3 @@
+[submodule "inacure-app"]
+	path = inacure-app
+	url = https://github.com/yashagozwan/inacure-app
